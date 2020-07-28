@@ -1,0 +1,13 @@
+.col {
+      padding-top: 5px;
+      width: 1140px;
+      height: 340px;
+      overflow-x: hidden;
+      overflow-y: scroll;
+}
+
+.card-columns {
+      column-count: 4;
+      
+      
+}
